@@ -5,4 +5,10 @@
 # Em treinamento (>=5 e <7)
 # Reprovado (<5)
 
+media01 = float(input("Digite a primeira media: "))
+media02 = float(input("Digite a segunda media: "))
+media03 = float(input("Digite a terceira media: "))
 
+soma = media01 + media02 + media03
+
+media = soma / 3
