@@ -12,3 +12,10 @@ media03 = float(input("Digite a terceira media: "))
 soma = media01 + media02 + media03
 
 media = soma / 3
+
+if media >= 7:
+    print("Aprovado")
+elif media >= 5:
+    print("Recuperação")
+else:
+    print("Reprovado")
