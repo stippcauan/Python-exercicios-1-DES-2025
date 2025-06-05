@@ -3,12 +3,9 @@
 # Salário mensal acima de R$ 3.000,00
 # A parcela não pode ser maior que 35% do salário
 
-salario_mensal = int(input("Digite o salário mensal de Renata: "))
-parcela_maxima = int(input(""))
+solicitar_financiamento = int(input("Envie o seu salario mensal:"))
 
-if salario_mensal > 3000:
-    print("Renata tem salário superior a R$ 3.000,00.")
-    print("A parcela máxima que ela pode ter é")
+if solicitar_financiamento >= 3000:
+    print("seu salario está dentro do criterio.")
 else:
-    print("O salário mensal de Renata é inferior a R$ 3.000,00.")
-    print("Ela não atende ao critério de salário mínimo.")
+    print("Salario fora do criterio")
