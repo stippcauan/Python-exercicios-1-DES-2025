@@ -61,7 +61,10 @@ numero = 5
 if numero > 0:
     print("Número positivo")
     for i in range(numero):
-        print("Contagem:", i)
+        print("Contagem:o (>=5 e <7)  
+- Reprovado (<5)
+
+---", i)
 else:
     print("Número negativo ou zero")
 ```
