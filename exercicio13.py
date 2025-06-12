@@ -3,7 +3,7 @@
 
 ano = int(input("Digite o ano."))
 
-if 4_anos and 4_anos:
+if 4 and 4:
     print("Ano bissexto")
 else:
     print("Não é um ano bissexto.")

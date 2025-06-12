@@ -9,3 +9,4 @@ if solicitar_financiamento >= 3000:
     print("seu salario está dentro do criterio.")
 else:
     print("Salario fora do criterio")
+     
