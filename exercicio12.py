@@ -2,8 +2,9 @@
 #Exiba uma mensagem de "Senha válida" ou "Senha muito curta".
 
 senha = int(input("Digite a sua senha."))
+digitos = len(senha)
 
 if senha >= 8:
-    print("Sua senha está valida.")
+    print("senha correta.")
 else:
-    print("Sua senha está invalida.")
+    print("Senha incoreta.")
