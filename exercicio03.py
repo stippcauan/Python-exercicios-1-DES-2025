@@ -6,5 +6,6 @@ if umidade >=70:
     print("Alerta umidade utrapassou 70")
 else:
     print("Umidade dentro do padrão")
+    #finalizado
        
 

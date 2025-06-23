@@ -14,3 +14,4 @@ if dia_01<0 or dia_02<0 or dia_03<0:
 else:
    soma = dia_01 + dia_02 + dia_03
    print(f"tempo total do projeto: {soma} dias")
+#finalizado

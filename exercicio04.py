@@ -15,4 +15,5 @@ elif V_media >=5 <= 10:
 
 else:
     print("reprovado")
+    #finalizado
 
