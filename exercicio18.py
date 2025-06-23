@@ -14,3 +14,4 @@ if resultado >= 120:
     print("Parabéns! você passou!")
 else:
     print("Você não passou!")
+#finalizado

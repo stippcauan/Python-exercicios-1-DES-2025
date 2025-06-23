@@ -8,3 +8,4 @@ if idade >= 13:
     print("Parabéns! você já pode se cadastrar.")
 else:
     print("Você ainda não pode se cadastrar.")
+    #finalizado    

@@ -8,3 +8,4 @@ if usuario == ("cauan") and senha ("2010"):
     print("Acesso concedido") 
 else:
     print("Acesso negado")
+    #finalizado

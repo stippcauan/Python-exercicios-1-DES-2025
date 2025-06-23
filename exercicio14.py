@@ -12,3 +12,4 @@ elif compra >300:
     print("Você ganhou 5% de desconto.")
 else:
     print("Você não conseguiu ganhar desconto.")
+    #finalizado
