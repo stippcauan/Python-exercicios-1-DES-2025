@@ -12,3 +12,4 @@ elif curso01 > curso02:
        print("curso01 é maior")
 else:
        print("curso02 é maior")
+#finalizado
